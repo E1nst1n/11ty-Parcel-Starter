@@ -1,0 +1,26 @@
+img{
+    max-width: 10vw;
+}
+
+h1{
+    font-family: monospace;
+    font-size: 50px
+}
+
+h2{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+li{
+    width: 50%;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    display: block;
+    font-family: sans-serif;
+}
+

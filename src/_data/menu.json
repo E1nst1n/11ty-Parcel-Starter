@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Big mac",
+        "category": "Beef",
+        "cost":"6.50.-",
+        "calories": "498 Kcal",
+        "src" : "/assets/img/bigmac.png"
+},
+{
+    "name": "McChicken",
+    "category": "Chiken",
+    "cost":"6.10.-",
+    "calories": "393 Kcal",
+    "src" : "/assets/img/mcchicken.png"
+},
+{
+    "name": "McVeggie",
+    "category": "Vegetarian",
+    "cost":"6.10.-",
+    "calories": "367 Kcal",
+    "src" : "/assets/img/mcveggie.png"
+},
+{
+    "name": "Filet-O-Fish",
+    "category": "Fish",
+    "cost":"5.80.-",
+    "calories": "330 Kcal",
+    "src" : "/assets/img/filetofish.png"
+}
+]
