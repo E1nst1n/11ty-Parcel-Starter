@@ -26,5 +26,12 @@
     "cost":"5.80.-",
     "calories": "330 Kcal",
     "src" : "/assets/img/filetofish.png"
+},
+{
+    "name": "Filet-O-Fish",
+    "category": "Fish",
+    "cost":"5.80.-",
+    "calories": "330 Kcal",
+    "src" : "/assets/img/filetofish.png"
 }
 ]
