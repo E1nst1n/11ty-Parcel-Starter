@@ -28,10 +28,10 @@
     "src" : "/assets/img/filetofish.png"
 },
 {
-    "name": "Filet-O-Fish",
-    "category": "Fish",
-    "cost":"5.80.-",
-    "calories": "330 Kcal",
+    "name": "test_netlify",
+    "category": "lourd",
+    "cost":"gratos",
+    "calories": "over 9000 Kcal",
     "src" : "/assets/img/filetofish.png"
 }
 ]
